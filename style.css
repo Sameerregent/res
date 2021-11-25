@@ -1,0 +1,14 @@
+/* div{
+    color: aliceblue;
+    background: url(./img/ben-sweet-2LowviVHZ-E-unsplash-1.jpeg);
+
+} */
+h1{
+    display:inline-block;
+    background-color: red;
+    width: 50%;
+}
+p{
+    display: inline;
+    background-color:aqua;
+    }
